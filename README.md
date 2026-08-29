@@ -88,6 +88,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.![pcsx2](./images/README/pcsx2.png)
 * [AetherSX2](https://aethersx2.net/)is a PlayStation 2 emulator that enables users to play PS2 games on iOS, Android, Mac, Windows PC, Linux users can play their favorite games from the PS2 console without the need for a physical PS2 console.![aechersx2](./images/README/aechersx2.png)
+* [NetherSX2](https://github.com/Trixarian/NetherSX2-patch)This is a continuation of NetherSX2 to build on the amazing work already done by Anon and EZOnTheEyes![Nethersx2](./images/README/Nethersx2_light.png)
 * [Play!](https://purei.org/) Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.![play](./images/README/play.png)
 
 #### PlayStation 3
