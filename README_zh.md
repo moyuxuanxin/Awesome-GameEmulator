@@ -88,6 +88,7 @@
 
 * [PCSX2](https://pcsx2.net) PCSX2 是一个免费的开源 PlayStation 2 (PS2) 模拟器。其目的是模拟 PS2 的硬件，使用 MIPS CPU 解释器、重新编译器和管理硬件状态和系统内存的虚拟机的组合。![pcsx2](./images/README/pcsx2.png)
 * [AetherSX2](https://aethersx2.net/)是一款适用于 PlayStation 2 的模拟器，能让用户在 iOS、Android、Mac、Windows PC 和 Linux 等平台上运行 PlayStation 2 游戏。对于使用 PlayStation 2 游戏机的用户来说，无需拥有实体 PlayStation 2 游戏机即可畅玩其喜爱的游戏。![aechersx2](./images/README/aechersx2.png)
+* [NetherSX2](https://github.com/Trixarian/NetherSX2-patch)是AetherSX2模拟器延续![NetherSX2](./images/README/NetherSX2_light.png)
 * [Play!](https://purei.org/) 一款支持多平台的PlayStation 2 模拟器。![play](./images/README/play.png)
 
 #### PlayStation 3
